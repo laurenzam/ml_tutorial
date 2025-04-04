@@ -1,0 +1,9 @@
+jupyter
+numpy
+matplotlib
+uproot
+pandas
+scikit_learn
+seaborn
+joblib
+ipywidgets
